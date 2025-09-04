@@ -5,13 +5,15 @@ This project analyzes hotel booking data to uncover patterns behind booking canc
 
 ## 🎯 Objectives
 
-Identify which hotel type faces higher cancellation rates.
-Analyze the impact of lead time on cancellations.
-Study cancellations by market segment and distribution channel.
+- Identify which hotel type faces higher cancellation rates.
 
-Examine seasonal trends in bookings and cancellations.
+- Analyze the impact of lead time on cancellations.
+  
+- Study cancellations by market segment and distribution channel.
 
-Provide recommendations for hotels to minimize cancellations.
+- Examine seasonal trends in bookings and cancellations.
+
+- Provide recommendations for hotels to minimize cancellations.
 
 ❓ Key Questions
 
