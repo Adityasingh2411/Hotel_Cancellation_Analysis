@@ -15,94 +15,94 @@ This project analyzes hotel booking data to uncover patterns behind booking canc
 
 - Provide recommendations for hotels to minimize cancellations.
 
-❓ Key Questions
+## ❓ Key Questions
 
-Which hotel type has the highest cancellation rate?
+- Which hotel type has the highest cancellation rate?
 
-How does lead time (days between booking & arrival) affect cancellations?
+- How does lead time (days between booking & arrival) affect cancellations?
 
-Do online travel agencies (OTAs) contribute to more cancellations than direct bookings?
+- Do online travel agencies (OTAs) contribute to more cancellations than direct bookings?
 
-What are the seasonal patterns in cancellations (month-wise)?
+- What are the seasonal patterns in cancellations (month-wise)?
 
-Which market segment and distribution channel are most reliable?
+- Which market segment and distribution channel are most reliable?
 
-📂 Dataset Overview
+## 📂 Dataset Overview
 
-Source: Hotel booking dataset (2015–2017).
+- Source: Hotel booking dataset (2015–2017).
 
-Records: 119,390 rows.
+- Records: 119,390 rows.
 
-Key Columns:
+### Key Columns:
 
-hotel → City Hotel / Resort Hotel
+- hotel → City Hotel / Resort Hotel
 
-is_canceled → 0 = Not canceled, 1 = Canceled
+- is_canceled → 0 = Not canceled, 1 = Canceled
 
-lead_time → Days between booking & check-in
+- lead_time → Days between booking & check-in
 
-arrival_date_month, arrival_date_year
+- arrival_date_month, arrival_date_year
 
-market_segment, distribution_channel
+- market_segment, distribution_channel
 
-country, reserved_room_type
+- country, reserved_room_type
 
-📊 Methodology
+## 📊 Methodology
 
-Data Cleaning
+### Data Cleaning
 
-Removed duplicates, missing values.
+- Removed duplicates, missing values.
 
-Checked data types for each column.
+- Checked data types for each column.
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Univariate & bivariate analysis.
+- Univariate & bivariate analysis.
 
-Created pivot tables for lead time & cancellations.
+- Created pivot tables for lead time & cancellations.
 
-Dashboard Development
+### Dashboard Development
 
-Interactive dashboard built in Excel/Power BI.
+- Interactive dashboard built in Excel/Power BI.
 
-Key metrics: Cancellation %, Lead Time, Seasonality, Market segment.
+- Key metrics: Cancellation %, Lead Time, Seasonality, Market segment.
 
-Insights & Recommendations
+- Insights & Recommendations
 
-Visualizations exported to PowerPoint.
+- Visualizations exported to PowerPoint.
 
-Slide-by-slide explanation of findings.
+- Slide-by-slide explanation of findings.
 
-📈 Key Insights
+## 📈 Key Insights
 
-City Hotels face more cancellations than Resort Hotels.
+- City Hotels face more cancellations than Resort Hotels.
 
-Short lead times (0–60 days) and medium lead times (60–120 days) contribute nearly 50% of cancellations.
+- Short lead times (0–120 days) contribute nearly 50% of cancellations.
 
-Online Travel Agencies (OTA) have the highest cancellation rate.
+- Online Travel Agencies (OTA) have the highest cancellation rate.
 
-Summer months (July–August) show peak cancellations.
+- Summer months (July–August) show peak cancellations.
 
-Corporate bookings show lower cancellation rates compared to OTA bookings.
+- Corporate bookings and Direct bookings show lower cancellation rates compared to OTA bookings.
 
-✅ Recommendations
+## ✅ Recommendations
 
-Implement stricter cancellation policies for short lead-time bookings.
+- Implement stricter cancellation policies for short lead-time bookings.
 
-Negotiate better terms with OTAs or promote direct bookings.
+- Negotiate better terms with OTAs or promote direct bookings.
 
-Use dynamic pricing for risky customer segments.
+- Use dynamic pricing for risky customer segments.
 
-Forecast demand by factoring in seasonal cancellation patterns.
+- Forecast demand by factoring in seasonal cancellation patterns.
 
-Target corporate bookings (low cancellation rates).
+- Target corporate and direct bookings (low cancellation rates).
 
-📂 Project Deliverables
+## 📂 Project Deliverables
 
-Excel/Power BI Dashboard → Interactive analysis.
+- Excel/Power BI Dashboard → Interactive analysis.
 
-PowerPoint Report → Storytelling with insights & recommendations.
+- PowerPoint Report → Storytelling with insights & recommendations.
 
-README.md → Project documentation.
+- README.md → Project documentation.
 
-👉 This project demonstrates data analysis, visualization, and business decision-making skills.
+### 👉 This project demonstrates data analysis, visualization, and business decision-making skills.
