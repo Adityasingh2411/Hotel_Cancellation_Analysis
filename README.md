@@ -63,7 +63,7 @@ This project analyzes hotel booking data to uncover patterns behind booking canc
 
 ### Dashboard Development
 
-- Interactive dashboard built in Excel/Power BI.
+- Interactive dashboard built in Excel.
 
 - Key metrics: Cancellation %, Lead Time, Seasonality, Market segment.
 
@@ -71,7 +71,6 @@ This project analyzes hotel booking data to uncover patterns behind booking canc
 
 - Visualizations exported to PowerPoint.
 
-- Slide-by-slide explanation of findings.
 
 ## 📈 Key Insights
 
@@ -97,9 +96,9 @@ This project analyzes hotel booking data to uncover patterns behind booking canc
 
 ## 📂 Project Deliverables
 
-- Excel/Power BI Dashboard → Interactive analysis.
+- Excel Dashboard → Interactive analysis.
 
-- PowerPoint Report → Storytelling with insights & recommendations.
+- PowerPoint PDF Report → Storytelling with insights & recommendations.
 
 - README.md → Project documentation.
 
