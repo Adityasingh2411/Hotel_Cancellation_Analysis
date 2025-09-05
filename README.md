@@ -91,8 +91,6 @@ This project analyzes hotel booking data to uncover patterns behind booking canc
 
 - Negotiate better terms with OTAs or promote direct bookings.
 
-- Use dynamic pricing for risky customer segments.
-
 - Forecast demand by factoring in seasonal cancellation patterns.
 
 - Target corporate and direct bookings (low cancellation rates).
@@ -105,4 +103,8 @@ This project analyzes hotel booking data to uncover patterns behind booking canc
 
 - README.md → Project documentation.
 
-### 👉 This project demonstrates data analysis, visualization, and business decision-making skills.
+## 👤 Author
+
+Name: Aditya Singh
+
+Role: Aspiring Data Analyst 
